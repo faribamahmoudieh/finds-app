@@ -1,0 +1,103 @@
+{
+  "brand": [
+    [
+      "Yohji Yamamoto",
+      1.0
+    ],
+    [
+      "Marni",
+      0.77
+    ],
+    [
+      "Dries Van Noten",
+      0.58
+    ],
+    [
+      "Levi's",
+      0.41
+    ],
+    [
+      "Example Label",
+      0.06
+    ]
+  ],
+  "type": [
+    [
+      "jacket",
+      1.0
+    ],
+    [
+      "knitwear",
+      0.69
+    ],
+    [
+      "jeans",
+      0.52
+    ],
+    [
+      "top",
+      0.33
+    ]
+  ],
+  "style": [
+    [
+      "tailored",
+      1.0
+    ],
+    [
+      "asymmetric",
+      0.64
+    ],
+    [
+      "military",
+      0.47
+    ],
+    [
+      "sheer",
+      0.21
+    ]
+  ],
+  "colour": [
+    [
+      "brown",
+      1.0
+    ],
+    [
+      "black",
+      0.71
+    ],
+    [
+      "blue",
+      0.44
+    ],
+    [
+      "yellow",
+      0.04
+    ]
+  ],
+  "material": [
+    [
+      "cotton",
+      1.0
+    ],
+    [
+      "denim",
+      0.62
+    ],
+    [
+      "wool",
+      0.38
+    ]
+  ],
+  "band": [
+    [
+      "40-80",
+      1.0
+    ],
+    [
+      "20-40",
+      0.57
+    ]
+  ],
+  "condition": []
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "pair_id": "demo-p-coat-c1",
+    "version": "v1",
+    "piece": {
+      "title": "Wool blazer with raw edges",
+      "brand": "Comme des Garçons",
+      "price_gbp": 310,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9501.heic?v=1792501535&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-coat",
+      "item_type": "jacket",
+      "category": "outerwear",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c1",
+      "title": "Black wool jacket",
+      "brand": "Junya Watanabe",
+      "price": 64,
+      "total_price": 66.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=junya+watanabe",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_8697.heic?v=1791905575&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  },
+  {
+    "pair_id": "demo-p-coat-c2",
+    "version": "v1",
+    "piece": {
+      "title": "Wool blazer with raw edges",
+      "brand": "Comme des Garçons",
+      "price_gbp": 310,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9501.heic?v=1792501535&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-coat",
+      "item_type": "jacket",
+      "category": "outerwear",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c2",
+      "title": "Long cardigan jacket",
+      "brand": "Yohji Yamamoto",
+      "price": 88,
+      "total_price": 90.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=yohji+yamamoto",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9950.heic?v=1791905187&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  },
+  {
+    "pair_id": "demo-p-knit-c3",
+    "version": "v1",
+    "piece": {
+      "title": "Grey wool sweater",
+      "brand": "Dries Van Noten",
+      "price_gbp": 185,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2609_d3d7f0d2-d9ab-4b6a-ab3b-64386f52cbf2.heic?v=1792508085&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-knit",
+      "item_type": "knitwear",
+      "category": "tops",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c3",
+      "title": "Cotton jacket",
+      "brand": "Marni",
+      "price": 45,
+      "total_price": 47.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=marni",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_8697.heic?v=1791905575&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  },
+  {
+    "pair_id": "demo-p-knit-c4",
+    "version": "v1",
+    "piece": {
+      "title": "Grey wool sweater",
+      "brand": "Dries Van Noten",
+      "price_gbp": 185,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2609_d3d7f0d2-d9ab-4b6a-ab3b-64386f52cbf2.heic?v=1792508085&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-knit",
+      "item_type": "knitwear",
+      "category": "tops",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c4",
+      "title": "Wool cardigan",
+      "brand": "Yohji Yamamoto",
+      "price": 52,
+      "total_price": 54.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=yohji+yamamoto",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9950.heic?v=1791905187&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  },
+  {
+    "pair_id": "demo-p-jeans-c5",
+    "version": "v1",
+    "piece": {
+      "title": "Engineered wide-leg jeans",
+      "brand": "Marithé François Girbaud",
+      "price_gbp": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2595_19468e54-cc1e-45aa-8159-5a567cf60e00.heic?v=1792508276&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-jeans",
+      "item_type": "jeans",
+      "category": "bottoms",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c5",
+      "title": "Engineered jeans",
+      "brand": "Levi's",
+      "price": 28,
+      "total_price": 30.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=levis",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2595_19468e54-cc1e-45aa-8159-5a567cf60e00.heic?v=1792508276&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  },
+  {
+    "pair_id": "demo-p-jeans-c6",
+    "version": "v1",
+    "piece": {
+      "title": "Engineered wide-leg jeans",
+      "brand": "Marithé François Girbaud",
+      "price_gbp": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2595_19468e54-cc1e-45aa-8159-5a567cf60e00.heic?v=1792508276&width=700",
+      "shop": "Example Vintage",
+      "url": "https://example-vintage.com/products/p-jeans",
+      "item_type": "jeans",
+      "category": "bottoms",
+      "families": [],
+      "tier": "designer"
+    },
+    "cand": {
+      "id": "demo-c6",
+      "title": "Fitted top",
+      "brand": "Cop Copine",
+      "price": 19,
+      "total_price": 21.5,
+      "size_label": "M / UK 12",
+      "url": "https://www.vinted.co.uk/catalog?search_text=cop+copine",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_0273.heic?v=1792503046&width=700",
+      "match": "similar"
+    },
+    "photo": 0.81,
+    "score": 2.1,
+    "parts": {
+      "family": 1.0,
+      "subtype": 0.0,
+      "photo": 1.62,
+      "shape": 0.0
+    }
+  }
+]

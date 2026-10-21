@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "tiers": {
+    "luxury": ["Miu Miu", "Maison Ombre"],
+    "designer": ["Comme des Garçons", "Yohji Yamamoto", "Atelier Nord"],
+    "contemporary": ["Cop Copine", "Rue Lumen"],
+    "high_street": ["Cos", "Basic Store"]
+  },
+  "families": {
+    "Quiet tailoring": ["Atelier Nord", "Maison Ombre", "Cos"],
+    "Soft avant-garde": ["Comme des Garçons", "Yohji Yamamoto"],
+    "Y2K street": ["Cop Copine", "Rue Lumen"]
+  },
+  "aliases": {
+    "CDG": "Comme des Garçons",
+    "Comme Des Garcons": "Comme des Garçons",
+    "COS": "Cos"
+  },
+  "categories": {
+    "outerwear": ["coat", "jacket", "blazer"],
+    "tops": ["knitwear", "shirt", "top", "tshirt"],
+    "bottoms": ["trousers", "jeans", "skirt"],
+    "dresses": ["dress"],
+    "bags": ["bag"]
+  }
+}

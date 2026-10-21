@@ -1,0 +1,242 @@
+{
+  "demo-7": {
+    "listing_id": "demo-7",
+    "action": "like",
+    "at": "2026-10-19T08:20:00Z",
+    "features": {
+      "brand": [
+        "agnès b."
+      ],
+      "type": [
+        "jacket"
+      ],
+      "band": [
+        "40-80"
+      ],
+      "condition": [
+        "Very good"
+      ],
+      "style": [],
+      "colour": [
+        "black"
+      ],
+      "material": [
+        "leather"
+      ]
+    },
+    "snapshot": {
+      "id": "demo-7",
+      "title": "Agnès b. leather jacket",
+      "brand": "Agnès b.",
+      "condition": "Very good",
+      "size_label": "L / UK 14",
+      "price": 61.0,
+      "total_price": 64.75,
+      "url": "https://www.vinted.co.uk/catalog?search_text=agnès+b.",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2429.heic?v=1792506905&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "leather"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 180.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 115.25,
+      "saved_pct": 64,
+      "offer": 52,
+      "long_leg": false,
+      "score": 3.0,
+      "features": {
+        "brand": [
+          "agnès b."
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "leather"
+        ]
+      }
+    }
+  },
+  "demo-8": {
+    "listing_id": "demo-8",
+    "action": "save",
+    "at": "2026-10-19T08:21:00Z",
+    "features": {
+      "brand": [
+        "miu miu"
+      ],
+      "type": [
+        "skirt"
+      ],
+      "band": [
+        "40-80"
+      ],
+      "condition": [
+        "Good"
+      ],
+      "style": [],
+      "colour": [
+        "grey"
+      ],
+      "material": [
+        "wool"
+      ]
+    },
+    "snapshot": {
+      "id": "demo-8",
+      "title": "Miu Miu wool skirt",
+      "brand": "Miu Miu",
+      "condition": "Good",
+      "size_label": "IT 44",
+      "price": 44.0,
+      "total_price": 46.9,
+      "url": "https://www.vinted.co.uk/catalog?search_text=miu+miu",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2558.heic?v=1792507559&width=700",
+      "item_type": "skirt",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 190.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 143.1,
+      "saved_pct": 75,
+      "offer": 37,
+      "long_leg": false,
+      "score": 2.8,
+      "features": {
+        "brand": [
+          "miu miu"
+        ],
+        "type": [
+          "skirt"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "style": [],
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ]
+      }
+    }
+  },
+  "demo-9": {
+    "listing_id": "demo-9",
+    "action": "like",
+    "at": "2026-10-18T08:05:00Z",
+    "features": {
+      "brand": [
+        "comme des garçons"
+      ],
+      "type": [
+        "top"
+      ],
+      "band": [
+        "20-40"
+      ],
+      "condition": [
+        "Good"
+      ],
+      "style": [],
+      "colour": [
+        "white"
+      ],
+      "material": [
+        "cotton"
+      ]
+    },
+    "snapshot": {
+      "id": "demo-9",
+      "title": "Comme des Garçons top",
+      "brand": "Comme des Garçons",
+      "condition": "Good",
+      "size_label": "M / UK 12",
+      "price": 30.0,
+      "total_price": 32.2,
+      "url": "https://www.vinted.co.uk/catalog?search_text=comme+des+garçons",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2249.heic?v=1792504027&width=700",
+      "item_type": "top",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "white"
+        ],
+        "material": [
+          "cotton"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 120.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 87.8,
+      "saved_pct": 73,
+      "offer": 26,
+      "long_leg": false,
+      "score": 2.5,
+      "features": {
+        "brand": [
+          "comme des garçons"
+        ],
+        "type": [
+          "top"
+        ],
+        "band": [
+          "20-40"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "style": [],
+        "colour": [
+          "white"
+        ],
+        "material": [
+          "cotton"
+        ]
+      }
+    }
+  }
+}

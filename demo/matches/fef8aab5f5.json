@@ -1,0 +1,184 @@
+{
+  "url": "https://example-vintage.com/products/wool-blazer",
+  "spotted": {
+    "title": "Wool blazer",
+    "brand": "Miu Miu",
+    "price_gbp": 234.0,
+    "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2558.heic?v=1792507559&width=700",
+    "shop": "Example Vintage"
+  },
+  "status": "ok",
+  "cards": [
+    {
+      "id": "demo-10",
+      "title": "Miu Miu blazer",
+      "brand": "Miu Miu",
+      "condition": "Very good",
+      "size_label": "IT 42",
+      "price": 48.0,
+      "total_price": 51.1,
+      "url": "https://www.vinted.co.uk/catalog?search_text=miu+miu",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9501.heic?v=1792501535&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 234.0,
+        "basis": "spotted",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 182.9,
+      "saved_pct": 78,
+      "offer": 41,
+      "long_leg": false,
+      "score": 0.9,
+      "features": {
+        "brand": [
+          "miu miu"
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ]
+      },
+      "match": "same_brand",
+      "reason": "Same brand",
+      "same_item": true
+    },
+    {
+      "id": "demo-11",
+      "title": "Miu Miu wool blazer",
+      "brand": "Miu Miu",
+      "condition": "Good",
+      "size_label": "M / UK 12",
+      "price": 39.0,
+      "total_price": 41.65,
+      "url": "https://www.vinted.co.uk/catalog?search_text=miu+miu",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_8697.heic?v=1791905575&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 234.0,
+        "basis": "spotted",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 192.35,
+      "saved_pct": 82,
+      "offer": 33,
+      "long_leg": false,
+      "score": 0.8,
+      "features": {
+        "brand": [
+          "miu miu"
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "20-40"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "style": [],
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ]
+      },
+      "match": "same_brand",
+      "reason": "Same brand",
+      "same_item": false
+    },
+    {
+      "id": "demo-12",
+      "title": "Tailored black blazer",
+      "brand": "Cos",
+      "condition": "Very good",
+      "size_label": "M / UK 12",
+      "price": 22.0,
+      "total_price": 23.8,
+      "url": "https://www.vinted.co.uk/catalog?search_text=cos",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9950.heic?v=1791905187&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": [
+          "tailored"
+        ]
+      },
+      "comparable": null,
+      "saved_gbp": null,
+      "saved_pct": null,
+      "offer": 19,
+      "long_leg": false,
+      "score": 0.5,
+      "features": {
+        "brand": [
+          "cos"
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "20-40"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [
+          "tailored"
+        ],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ]
+      },
+      "match": "similar",
+      "reason": "Same family: Quiet tailoring · wool",
+      "same_item": false
+    }
+  ]
+}

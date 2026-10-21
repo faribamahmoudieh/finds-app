@@ -1,0 +1,345 @@
+{
+  "generated_at": "2026-10-20T07:10:00+00:00",
+  "source": "github",
+  "status": "ok",
+  "message": "",
+  "fallback_links": [],
+  "cards": [
+    {
+      "id": "demo-1",
+      "title": "Dries Van Noten sweater",
+      "brand": "Dries Van Noten",
+      "condition": "Very good",
+      "size_label": "M / UK 12",
+      "price": 36.0,
+      "total_price": 38.5,
+      "url": "https://www.vinted.co.uk/catalog?search_text=dries+van+noten",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2609_d3d7f0d2-d9ab-4b6a-ab3b-64386f52cbf2.heic?v=1792508085&width=700",
+      "item_type": "knitwear",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 151.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 112.5,
+      "saved_pct": 75,
+      "offer": 31,
+      "long_leg": false,
+      "score": 3.4,
+      "features": {
+        "brand": [
+          "dries van noten"
+        ],
+        "type": [
+          "knitwear"
+        ],
+        "band": [
+          "20-40"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [],
+        "colour": [
+          "grey"
+        ],
+        "material": [
+          "wool"
+        ]
+      }
+    },
+    {
+      "id": "demo-2",
+      "title": "Comme des Garçons blazer",
+      "brand": "Comme des Garçons",
+      "condition": "Good",
+      "size_label": "L / UK 14",
+      "price": 46.0,
+      "total_price": 49.0,
+      "url": "https://www.vinted.co.uk/catalog?search_text=comme+des+garçons",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9501.heic?v=1792501535&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": [
+          "tailored"
+        ]
+      },
+      "comparable": {
+        "price_gbp": 153.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 104.0,
+      "saved_pct": 68,
+      "offer": 39,
+      "long_leg": false,
+      "score": 3.1,
+      "features": {
+        "brand": [
+          "comme des garçons"
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "style": [
+          "tailored"
+        ],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ]
+      }
+    },
+    {
+      "id": "demo-3",
+      "title": "Cop Copine top",
+      "brand": "Cop Copine",
+      "condition": "Very good",
+      "size_label": "M / UK 12",
+      "price": 20.0,
+      "total_price": 21.7,
+      "url": "https://www.vinted.co.uk/catalog?search_text=cop+copine",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_0273.heic?v=1792503046&width=700",
+      "item_type": "top",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "cotton"
+        ],
+        "style": [
+          "sheer"
+        ]
+      },
+      "comparable": {
+        "price_gbp": 76.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 54.3,
+      "saved_pct": 71,
+      "offer": 17,
+      "long_leg": false,
+      "score": 2.9,
+      "features": {
+        "brand": [
+          "cop copine"
+        ],
+        "type": [
+          "top"
+        ],
+        "band": [
+          "20-40"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [
+          "sheer"
+        ],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "cotton"
+        ]
+      }
+    },
+    {
+      "id": "demo-4",
+      "title": "Levi's Engineered jeans",
+      "brand": "Levi's",
+      "condition": "Good",
+      "size_label": "W31 L34",
+      "price": 42.0,
+      "total_price": 44.8,
+      "url": "https://www.vinted.co.uk/catalog?search_text=levi's",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_2595_19468e54-cc1e-45aa-8159-5a567cf60e00.heic?v=1792508276&width=700",
+      "item_type": "jeans",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "blue"
+        ],
+        "material": [
+          "denim"
+        ],
+        "style": [
+          "asymmetric"
+        ]
+      },
+      "comparable": {
+        "price_gbp": 112.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 67.2,
+      "saved_pct": 60,
+      "offer": 36,
+      "long_leg": false,
+      "score": 2.6,
+      "features": {
+        "brand": [
+          "levi's"
+        ],
+        "type": [
+          "jeans"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "style": [
+          "asymmetric"
+        ],
+        "colour": [
+          "blue"
+        ],
+        "material": [
+          "denim"
+        ]
+      }
+    },
+    {
+      "id": "demo-5",
+      "title": "Yohji Yamamoto cardigan",
+      "brand": "Yohji Yamamoto",
+      "condition": "Very good",
+      "size_label": "M / UK 12",
+      "price": 49.0,
+      "total_price": 52.15,
+      "url": "https://www.vinted.co.uk/catalog?search_text=yohji+yamamoto",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_9950.heic?v=1791905187&width=700",
+      "item_type": "knitwear",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ],
+        "style": []
+      },
+      "comparable": {
+        "price_gbp": 149.0,
+        "basis": "brand_type",
+        "shop": "Example Vintage"
+      },
+      "saved_gbp": 96.85,
+      "saved_pct": 65,
+      "offer": 42,
+      "long_leg": false,
+      "score": 2.4,
+      "features": {
+        "brand": [
+          "yohji yamamoto"
+        ],
+        "type": [
+          "knitwear"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "Very good"
+        ],
+        "style": [],
+        "colour": [
+          "black"
+        ],
+        "material": [
+          "wool"
+        ]
+      }
+    },
+    {
+      "id": "demo-6",
+      "title": "Marni cotton jacket",
+      "brand": "Marni",
+      "condition": "New without tags",
+      "size_label": "M / UK 12",
+      "price": 55.0,
+      "total_price": 58.45,
+      "url": "https://www.vinted.co.uk/catalog?search_text=marni",
+      "image": "https://cdn.shopify.com/s/files/1/0768/4250/0363/files/IMG_8697.heic?v=1791905575&width=700",
+      "item_type": "jacket",
+      "measurements": null,
+      "status": "active",
+      "attrs": {
+        "colour": [
+          "brown"
+        ],
+        "material": [
+          "cotton"
+        ],
+        "style": [
+          "military"
+        ]
+      },
+      "comparable": null,
+      "saved_gbp": null,
+      "saved_pct": null,
+      "offer": 47,
+      "long_leg": false,
+      "score": 2.0,
+      "features": {
+        "brand": [
+          "marni"
+        ],
+        "type": [
+          "jacket"
+        ],
+        "band": [
+          "40-80"
+        ],
+        "condition": [
+          "New without tags"
+        ],
+        "style": [
+          "military"
+        ],
+        "colour": [
+          "brown"
+        ],
+        "material": [
+          "cotton"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "morning_run": true,
+  "eur_gbp": 0.86,
+  "min_deal_pct": 40,
+  "offer_pct": 15,
+  "explore": 0.2,
+  "feed_size": 30,
+  "max_bags": 3,
+  "shops": [
+    {
+      "name": "Example Vintage",
+      "url": "https://example-vintage.com",
+      "currency": "GBP"
+    }
+  ],
+  "brands": [],
+  "pinned": [],
+  "removed": [],
+  "pinned_styles": [],
+  "removed_styles": [],
+  "sizes": {
+    "tops": [
+      "S",
+      "M"
+    ],
+    "tops_uk": [
+      8,
+      12
+    ],
+    "tops_fr": [
+      36,
+      40
+    ],
+    "tops_it": [
+      40,
+      44
+    ],
+    "men_tops": [
+      "XS",
+      "S"
+    ],
+    "bottoms_min_w": 27,
+    "bottoms_min_uk": 8,
+    "bottoms_min_fr": 36,
+    "bottoms_max_w": 32,
+    "bottoms_max_uk": 14,
+    "bottoms_max_fr": 42,
+    "min_pit_cm": 44,
+    "min_waist_flat_cm": 34,
+    "long_leg_cm": 76
+  }
+}
